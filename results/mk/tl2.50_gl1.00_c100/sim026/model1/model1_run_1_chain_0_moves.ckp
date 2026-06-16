@@ -1,0 +1,5 @@
+NNI(variable=topology,num_tried_current=510119,num_tried_total=568391,num_accepted_current=115758,num_accepted_total=128654,tuning_value=nan)
+SubtreePruneRegraft(variable=topology,num_tried_current=127693,num_tried_total=142289,num_accepted_current=1872,num_accepted_total=2142,tuning_value=nan)
+Scaling(variable=tree_length,num_tried_current=10546,num_tried_total=11735,num_accepted_current=4987,num_accepted_total=5420,tuning_value=0.508218)
+BetaSimplex(variable=rel_br_lengths,num_tried_current=340298,num_tried_total=379271,num_accepted_current=154949,num_accepted_total=173099,tuning_value=0.86372)
+DirichletSimplex(variable=rel_br_lengths,num_tried_current=50844,num_tried_total=56614,num_accepted_current=4442,num_accepted_total=4677,tuning_value=7.23151)
