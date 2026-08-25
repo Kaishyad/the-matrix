@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# R
+.Rhistory
+.RData
+
+# Large files managed by Git LFS — tracked via .gitattributes, not ignored
+# (listed here as a reminder; do not uncomment)
+# logs/**/*.log
+# logs/**/*.trees
+results/tree_accuracy_per_rep_*.rds
+results/tree_accuracy_summary_*.rds
+results/convergence_summary_*.rds
+results/known_answer_summary_*.rds
+diagnostics/
+*.ckp
+results/_requeued_stale/
