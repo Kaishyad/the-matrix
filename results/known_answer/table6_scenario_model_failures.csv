@@ -1,10 +1,10 @@
 scenario,modelID,modelID_label,n_cells,n_below_95
-mk,model12,M12,64,58
-mk,model11,M11,64,55
-mk,model7,M7,64,48
+mk,model12,M12,64,64
+mk,model11,M11,64,60
+mk,model7,M7,64,52
 mk,model9,M9,64,44
 mk,model4,M4,64,36
-mk,model5,M5,64,34
+mk,model5,M5,64,36
 mk,model3,M3,64,32
 mk,model1,M1 (Mk baseline),64,24
 mk,model10,M10,64,20
@@ -13,6 +13,7 @@ mk,model8,M8 (NT baseline),64,16
 mk,model2,M2,64,12
 nt,model1,M1 (Mk baseline),192,192
 nt,model11,M11,192,192
+nt,model12,M12,192,192
 nt,model2,M2,192,192
 nt,model3,M3,192,192
 nt,model4,M4,192,186
@@ -20,6 +21,5 @@ nt,model6,M6,192,186
 nt,model8,M8 (NT baseline),192,186
 nt,model10,M10,192,184
 nt,model5,M5,192,183
-nt,model7,M7,192,179
-nt,model9,M9,192,137
-nt,model12,M12,192,122
+nt,model7,M7,192,180
+nt,model9,M9,192,138
