@@ -1,0 +1,38 @@
+/var/spool/slurmd/job18632443/slurm_script: line 10: /var/spool/slurmd/job18632443/config.sh: No such file or directory
+Loading required package: nlme
+This is mgcv 1.8-38. For overview type 'help("mgcv-package")'.
+ℹ Found 24 per-model file(s) to merge:
+• convergence_summary_mk_model1.rds
+• convergence_summary_mk_model10.rds
+• convergence_summary_mk_model11.rds
+• convergence_summary_mk_model12.rds
+• convergence_summary_mk_model2.rds
+• convergence_summary_mk_model3.rds
+• convergence_summary_mk_model4.rds
+• convergence_summary_mk_model5.rds
+• convergence_summary_mk_model6.rds
+• convergence_summary_mk_model7.rds
+• convergence_summary_mk_model8.rds
+• convergence_summary_mk_model9.rds
+• convergence_summary_nt_model1.rds
+• convergence_summary_nt_model10.rds
+• convergence_summary_nt_model11.rds
+• convergence_summary_nt_model12.rds
+• convergence_summary_nt_model2.rds
+• convergence_summary_nt_model3.rds
+• convergence_summary_nt_model4.rds
+• convergence_summary_nt_model5.rds
+• convergence_summary_nt_model6.rds
+• convergence_summary_nt_model7.rds
+• convergence_summary_nt_model8.rds
+• convergence_summary_nt_model9.rds
+✔ Merged combined summary saved to: /nobackup/djfb16/the-matrix/results/convergence_summary.rds (30690 total rows)
+! 1434 failed run(s) written to: /nobackup/djfb16/the-matrix/results/requeue_list.txt
+
+── Merged convergence summary ──
+
+ℹ Total runs checked : 30690
+ℹ Passed             : 29256 (95.3%)
+ℹ Failed             : 1434 (4.7%)
+fatal: empty string is not a valid pathspec. please use . instead if you meant to match all paths
+fatal: pathspec 'results/convergence_summary.rds' did not match any files
