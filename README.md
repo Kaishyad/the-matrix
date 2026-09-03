@@ -1,2 +1,2 @@
 # the-matrix
-Simulation outputs, posterior logs, and character matrices for the morphosim study.
+Simulation outputs, posterior logs, and analysis the morphosim study.
